@@ -2,9 +2,15 @@
 
 <h4 align="center">This exercise shows use of javascript to move particles in new patterns.</h4>
 <br>
-<div align="center" id="top"> 
-<img src ="./bigbang.jpg" width ='500'/>
-</div>
+<br>
+
+https://user-images.githubusercontent.com/104742558/183472094-31968910-b721-46e0-b0af-a179ab7b564c.mp4
+
+<br>
+
+*[Visit the github page for this repository](https://suja-codes.github.io/Big-Bang-Exercise/)*
+<br>
+
 
 ### Description 
 
